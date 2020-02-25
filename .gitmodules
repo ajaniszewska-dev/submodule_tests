@@ -1,0 +1,3 @@
+[submodule "submodules/server-env"]
+	path = submodules/server-env
+	url = git@github.com:OCA/server-env.git
